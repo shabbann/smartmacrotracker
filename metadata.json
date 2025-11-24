@@ -1,0 +1,7 @@
+{
+  "name": "SmartMacro Tracker",
+  "description": "A smart calorie and macro tracker that uses AI to log food from natural language, supports Bulk/Cut modes, and tracks history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
